@@ -1,9 +1,10 @@
 # image-text
 ## esse efeito faz com que uma imagem apareça dentro de um texto  
- codigo HTML
+ * codigo HTML
  ```` html
- ````
- codigo css
+<h1 class="image-text">text image</h1>
+````
+ * codigo css
   
  ```` css
  .image-text {
