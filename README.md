@@ -8,7 +8,7 @@
   
  ```` css
  .image-text {
-      background-image: url("bg.jpeg");
+      background-image: url("bg.jpg");
       background-size: cover;
       background-clip: text;
       -webkit-background-clip: text;
@@ -16,5 +16,5 @@
 }
  ````
 ## resultado dos codigos
-![result]()
-# feito por [igorrzinho]()
+![result](assets/result.png)
+# feito por [igorrzinho](https://github.com/igorrzinho/)
