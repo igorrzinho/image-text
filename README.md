@@ -5,5 +5,12 @@
  ````
  codigo css
   
- ```` html
+ ```` css
+ .image-text {
+  background-image: url("bg.jpeg");
+  background-size: cover;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
  ````
